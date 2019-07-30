@@ -1,8 +1,8 @@
 
-// console.log('dev');
-// var urlquery = new URLSearchParams(window.location.search);
-// $("#input-apikey").val(urlquery.get('api_key'));
-// $("#input-room-name").val(urlquery.get('room_name'));
+console.log('dev');
+var urlquery = new URLSearchParams(window.location.search);
+$("#input-apikey").val(urlquery.get('api_key'));
+$("#input-room-name").val(urlquery.get('room_name'));
 
 ///////////////////////////////////////////////////////
 // Definitions for global valuables
